@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "KIImageView"
-  s.version      = “0.1.1"
+  s.version      = "0.1.1"
   s.summary      = "Custom ImageView having capability to load from a web url with caching and loading indicator."
 
   s.description  = <<-DESC
